@@ -1,5 +1,7 @@
 # for eclipse
-/.settings/
+*/.settings/
+*.classpath
+*.project
 /.project
 
 # for idea
