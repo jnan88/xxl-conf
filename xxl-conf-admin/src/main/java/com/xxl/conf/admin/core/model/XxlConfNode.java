@@ -12,8 +12,6 @@ public class XxlConfNode {
 	private String nodeKey; 		// key of prop
 	private String nodeValue; 		// value of prop
 	private String nodeDesc;		// description of prop
-
-	private String groupKey;		// key of prop [in zk]
 	private String nodeValueReal; 	// value of prop [in zk]
 
 	public String getNodeGroup() {
